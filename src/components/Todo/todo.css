@@ -1,0 +1,13 @@
+.todo{
+    width: 90vw;
+    padding: 12px;
+    display: flex;
+    border: 2px solid #000;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.todo p{
+    color: cornflowerblue;
+}
